@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="audio_duration" translatable="false">Duration: </string>
+    <string name="record_title" translatable="false">Record RingTone:</string>
+    <string name="mint_ringtone" translatable="false">\u0020mint ringtone.</string>
+    <string name="record_start" translatable="false">Start</string>
+    <string name="record_stop" translatable="false">Stop</string>
+    <string name="audio_content_desc" translatable="false">Audio</string>
+    <string name="select_ringtone" translatable="false">Select a ringtone to mint:</string>
+    <string name="record_song_content_desc" translatable="false">Recode Voice</string>
+    <string name="lets_get">Let\u2019s get</string>
+    <string name="minty_fresh">\u0020minty fresh.</string>
+    <string name="select_photo">Select a photo to mint:</string>
+    <string name="image_content_desc">Image</string>
+    <string name="take_pic_content_desc">Take Picture</string>
+    <string name="gallery_permission_body">It\u2019d be better if you could see your audio here, right?\n&#128071;</string>
+    <string name="gallery_permission_button">Allow audio access</string>
+    <string name="camera_permission_body">Mint directly from your camera without leaving the app\n&#128071;</string>
+    <string name="camera_permission_button">Allow camera access</string>
+</resources>
